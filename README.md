@@ -1,0 +1,9 @@
+# CSSDasarFarrel
+![alt text](https://github.com/farrelreginaldo/CSSDasarFarrel/blob/master/ss%20CSS%20dasar/1.png?raw=true)
+![alt text](https://github.com/farrelreginaldo/CSSDasarFarrel/blob/master/ss%20CSS%20dasar/2.png?raw=true)
+![alt text](https://github.com/farrelreginaldo/CSSDasarFarrel/blob/master/ss%20CSS%20dasar/3.png?raw=true)
+![alt text](https://github.com/farrelreginaldo/CSSDasarFarrel/blob/master/ss%20CSS%20dasar/4.png?raw=true)
+![alt text](https://github.com/farrelreginaldo/CSSDasarFarrel/blob/master/ss%20CSS%20dasar/5.png?raw=true)
+![alt text](https://github.com/farrelreginaldo/CSSDasarFarrel/blob/master/ss%20CSS%20dasar/6.png?raw=true)
+![alt text](https://github.com/farrelreginaldo/CSSDasarFarrel/blob/master/ss%20CSS%20dasar/7.png?raw=true)
+![alt text](https://github.com/farrelreginaldo/CSSDasarFarrel/blob/master/ss%20CSS%20dasar/8a.png?raw=true)
